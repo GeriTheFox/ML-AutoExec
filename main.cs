@@ -3,7 +3,7 @@ using System.IO;
 using System.Collections.Generic;
 using MelonLoader;
 
-[assembly: MelonInfo(typeof(AutoExec.main), "AutoExec", "1.0", "Geri")]
+[assembly: MelonInfo(typeof(AutoExec.main), "AutoExec", "1.1", "Geri")]
 [assembly: MelonColor(ConsoleColor.Yellow)]
 [assembly: MelonGame]
 
