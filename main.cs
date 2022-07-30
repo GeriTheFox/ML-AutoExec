@@ -5,7 +5,7 @@ using MelonLoader;
 
 [assembly: MelonInfo(typeof(AutoExec.main), "AutoExec", "1.0", "Geri")]
 [assembly: MelonColor(ConsoleColor.Yellow)]
-[assembly: MelonGame("VRChat", "VRChat")]
+[assembly: MelonGame]
 
 namespace AutoExec
 {
